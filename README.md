@@ -37,8 +37,7 @@
 - CSS
 - Images/icons for visual learning
 
-## How to Run
+## Live Demo
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/navitak217-design/web2.git
+   View Live Website:  
+   https://navitak217-design.github.io/web2/
